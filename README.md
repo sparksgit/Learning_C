@@ -1,3 +1,3 @@
 # Learning_C
 This is a repository for the educational purposes of learning C.
-C is the best programming language!
+-- C is the best programming language!
