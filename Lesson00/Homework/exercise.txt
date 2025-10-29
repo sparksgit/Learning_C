@@ -1,0 +1,1 @@
+Homework: make a program that prints "Hello my name is Nikos" and save it to github.
